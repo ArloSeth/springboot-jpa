@@ -12,5 +12,6 @@ public class MyApplication {
         SpringApplication.run(MyApplication.class,args);
         System.out.println("dddd");
         System.out.println("新增内容加上提交远程仓库");
+        System.out.println("aa");
     }
 }
